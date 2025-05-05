@@ -46,9 +46,11 @@ View Analytics:
 Monthly savings metrics
 
 Interactive bar chart 
+
 References
 • Streamlit documentation
 • SQLite3 Python API
 Team Members
+
 Ussenbayev Olzhas 220103211
 Ibrayev Daulet 230103028
